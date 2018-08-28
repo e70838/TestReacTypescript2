@@ -9,6 +9,10 @@ import {
   CompoundButton
 } from "office-ui-fabric-react";
 
+// documentation is:
+// https://developer.microsoft.com/en-us/fabric#/components/button
+// https://openclassrooms.com/fr/courses/4664381-realisez-une-application-web-avec-react-js/4664806-modernisez-votre-javascript-avec-es2015
+
 const styles = {
   fontFamily: "sans-serif",
   textAlign: "center"
